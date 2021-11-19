@@ -1,4 +1,18 @@
 ### 🍅🎵🍅🎵🍅
+
+I'm not really sure if it works...
+
+## Is this headline?
+
+Yeah looks like it
+
+# あ
+What else I can do?
+I've never done any programming or anything like that, so I really don't know about this kind of thing...
+
+In Japan, the last few years have seen the rise of virtual idols and virtual youtubers. In recent years, people have been communicating more and more online. People can become completely different people online.
+I'm not sure if this topic has anything to do with creative computing though.
+
 <!--
 **DancingTomato/DancingTomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
